@@ -8,7 +8,7 @@ public class Main {
         double c = p.product(1.0,2.0);
     }
 
-    static class  Product{
+    public static class  Product{
 
         public int product(int x, int y, int z) {
             return x * y * z;
